@@ -1,0 +1,10 @@
+html{
+    background-color: lightblue;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+}
